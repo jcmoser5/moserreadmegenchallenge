@@ -3,7 +3,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Description
-Generates Readme files for your projects.
+generates readme files for your projects
 
 ## Table of Contents
 * [Installation](#installation)
@@ -35,7 +35,7 @@ contact me if you wish to contribute
 ## Tests
 To run tests:
 ```
-Tests can be run at user discretion.
+Tests can be run at user discretion
 ```
 
 ## Questions
