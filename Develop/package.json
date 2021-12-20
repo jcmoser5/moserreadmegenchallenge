@@ -1,14 +1,25 @@
 {
-  "name": "static-site",
+  "name": "readme-generator",
   "version": "1.0.0",
-  "description": "",
+  "description": "generates readme files based on user inputs",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Jonathan Moser",
+  "license": "MIT",
   "dependencies": {
     "inquirer": "^6.5.2"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jcmoser5/moserreadmegenchallenge"
+  },
+  "keywords": [
+    "readme",
+    "generator",
+    "node.js",
+    "inquirer",
+    "es6"
+  ]
 }
